@@ -5,5 +5,6 @@ public class domain {
     private Integer age;
     private String address;
     private String email;
+    private String sex;
 
 }
